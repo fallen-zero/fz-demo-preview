@@ -1,0 +1,1 @@
+System.register([],(function(t,e){"use strict";return{execute:function(){t("u",(function(){let t="";for(let n=1;n<=36;n++)t+=9===n||14===n||19===n||24===n?"-":15===n?4:20===n?e[4*Math.random()|8]:e[16*Math.random()|0];return t}));const e=[];for(let t=0;t<=15;t++)e[t]=t.toString(16)}}}));
