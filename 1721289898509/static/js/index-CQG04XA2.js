@@ -1,1 +1,0 @@
-import{_ as e}from"./index-CcBoYM7q.js";import{o,X as r}from"./node/pnpm-BRmVptv7.js";const c={},t={class:""};function s(n,_){return o(),r("div",t," PreviewWord ")}const d=e(c,[["render",s]]);export{d as default};
