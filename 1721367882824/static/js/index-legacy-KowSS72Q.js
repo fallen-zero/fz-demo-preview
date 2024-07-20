@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DADljG4P.js","./node/pnpm-legacy-CPqzSNv0.js"],(function(e,t){"use strict";var n,r,s;return{setters:[e=>{n=e._},e=>{r=e.o,s=e.X}],execute:function(){const t={class:""};e("default",n({},[["render",function(e,n){return r(),s("div",t," PreviewWord ")}]]))}}}));
