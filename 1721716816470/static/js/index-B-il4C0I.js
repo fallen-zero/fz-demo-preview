@@ -1,0 +1,1 @@
+import{_ as e}from"./index-Dwdj5_is.js";import{o,X as r}from"./node/pnpm-5dso9loe.js";const c={},t={class:""};function s(n,_){return o(),r("div",t," PreviewWord ")}const d=e(c,[["render",s]]);export{d as default};
